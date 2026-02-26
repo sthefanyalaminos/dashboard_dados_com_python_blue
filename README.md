@@ -1,7 +1,7 @@
 📊 Dashboard de Dados com Python
 
 Dashboard interativo desenvolvido em Python durante a Imersão Dados com Python - Alura.
-O projeto tem como foco desenvolver de maneira prática a análise exploratória de dados automatizada e estratégica.
+O projeto tem como foco aplicar e desenvolver, de forma prática, a análise exploratória de dados automatizada e estratégica.
 
 Além da base proposta durante a imersão, foram realizadas modificações visuais para melhorar a experiência do usuário, como a padronização do dashboard em tons de azul, buscando uma interface mais agradável e criativa.
 
@@ -13,17 +13,20 @@ Acesse o Dashboard: https://dashboard-dadoscompython-alura2026-sthefanyalaminos.
 
 Objetivo: 
 Aplicar os conceitos aprendidos durante as aulas, envolvendo: 
-Limpeza e preparação de dados;
-Aplicação de filtros simples;
-Extração de insights;
-Análise de estatísticas;
-Construção de visualizações interativas.
+- Limpeza e preparação de dados;
+- Aplicação de filtros simples;
+- Extração de insights;
+- Análise de estatísticas;
+- Construção de visualizações interativas.
 
 Tecnologias utilizadas:
-Python;
-Pandas;
-Streamlit;
-Plotly.
+- Python;
+- Pandas;
+- Streamlit;
+- Plotly.
+
+Autoria 
+Projeto desenvolvido a partir da Imersão - Dados com Python, oferecida pela Alura, com modificações estéticas finalizadas por Sthefany Alaminos, para estudo e consolidação de conhecimentos em Python e análise de dados.
 
 
 
