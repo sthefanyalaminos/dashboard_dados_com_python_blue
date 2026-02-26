@@ -26,7 +26,7 @@ Tecnologias utilizadas:
 - Streamlit;
 - Plotly.
 
-Autoria 
+Autoria:
 
 Projeto desenvolvido a partir da Imersão - Dados com Python, oferecida pela Alura, com modificações estéticas finalizadas por Sthefany Alaminos, para estudo e consolidação de conhecimentos em Python e análise de dados.
 
