@@ -12,6 +12,7 @@ Além da base proposta durante a imersão, foram realizadas modificações visua
 Acesse o Dashboard: https://dashboard-dadoscompython-alura2026-sthefanyalaminos.streamlit.app/
 
 Objetivo: 
+
 Aplicar os conceitos aprendidos durante as aulas, envolvendo: 
 - Limpeza e preparação de dados;
 - Aplicação de filtros simples;
@@ -26,6 +27,7 @@ Tecnologias utilizadas:
 - Plotly.
 
 Autoria 
+
 Projeto desenvolvido a partir da Imersão - Dados com Python, oferecida pela Alura, com modificações estéticas finalizadas por Sthefany Alaminos, para estudo e consolidação de conhecimentos em Python e análise de dados.
 
 
