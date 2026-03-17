@@ -1,6 +1,6 @@
 translations = {
 
-    "pt": {
+    "Português": {
         "language_selector": "🌐 Idioma / Language",
         "filters": "🔍 Filtros",
         "year": "Ano",
@@ -21,7 +21,7 @@ translations = {
         "detailed_data": "Dados Detalhados"
     },
 
-    "en": {
+    "English": {
         "language_selector": "🌐 Language / Idioma",
         "filters": "🔍 Filters",
         "year": "Year",
