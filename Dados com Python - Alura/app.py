@@ -87,13 +87,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/vqrca/dashboard_salarios_dad
 # --- Seletor de Idioma ---
 language = st.sidebar.selectbox(
     "🌐 Language",
-    ["Português", "English"]
+    ["pt", "en"]
 )
-
-if language == "Português":
-    t = translation["pt"]
-else:
-    t = translation["en"]
 
 t = translation[language]
 
