@@ -90,6 +90,11 @@ language = st.sidebar.selectbox(
     ["Português", "English"]
 )
 
+if language == "Português":
+    t = translation["pt"]
+else:
+    t = translation["en"]
+
 t = translation[language]
 
 # --- Barra Lateral (Filtros) ---
