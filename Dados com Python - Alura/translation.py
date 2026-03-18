@@ -134,14 +134,14 @@ company_size_map = {
  
 remote_map = {
     "pt": {
-        "Presencial": "Presencial",
-        "Híbrido":    "Híbrido",
-        "Remoto":     "Remoto",
+        "presencial": "Presencial",
+        "hibrido":    "Híbrido",
+        "remoto":     "Remoto",
     },
     "en": {
-        "Presencial": "On-site",
-        "Híbrido":    "Hybrid",
-        "Remoto":     "Remote",
+        "presencial": "On-site",
+        "hibrido":    "Hybrid",
+        "remoto":     "Remote",
     }
 }
  
