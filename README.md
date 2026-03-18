@@ -1,4 +1,6 @@
 # 📊 Dashboard de Análise de Salários na Área de Dados
+[Translate to English](https://github.com/sthefanyalaminos/dashboard_dados_com_python/blob/main/README_EN.md)
+
 O Dashboard foi desenvolvido com o objetivo de realizar análise exploratória de dados de forma automatizada e visual, permitindo a interpretação rápida de informações estratégicas por meio de gráficos e filtros interativos.
 
 A aplicação transforma dados brutos em visualizações organizadas, facilitando a identificação de padrões, tendências e possíveis insights relevantes para tomada de decisão.

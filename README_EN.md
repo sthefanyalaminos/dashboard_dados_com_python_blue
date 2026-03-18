@@ -1,4 +1,6 @@
 # 📊 Salary Analysis Dashboard in the Data Field
+[Traduzir para Português](https://github.com/sthefanyalaminos/dashboard_dados_com_python/blob/main/README.md)
+
 The Dashboard was developed with the goal of performing automated and visual exploratory data analysis, enabling quick interpretation of strategic information through charts and interactive filters.
 
 The application transforms raw data into organized visualizations, making it easier to identify patterns, trends, and relevant insights for decision-making.
