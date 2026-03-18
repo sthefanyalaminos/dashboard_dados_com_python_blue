@@ -8,7 +8,7 @@ A aplicação transforma dados brutos em visualizações organizadas, facilitand
 </div>
 
 
-<img src="imagens_readme/img_dash.png">
+<img src="imagens_readme/img_dash.png" width="400">
 <img src="imagens_readme/img_graph.png">
 <img src="imagens_readme/img_graph2.png">
 <img src="imagens_readme/img_data.png">
