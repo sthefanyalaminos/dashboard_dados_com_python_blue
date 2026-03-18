@@ -160,7 +160,7 @@ df_exibir["contrato"] = df_exibir["contrato"].map(con_map).fillna(df_exibir["con
 
 df_exibir["tamanho_empresa"] = df_exibir["tamanho_empresa"].map(tam_map).fillna(df_exibir["tamanho_empresa"])
 
-df_exibir["remoto"] = df_exibir["remoto"].astype(int).map(rem_map).fillna(df_exibir["remoto"])
+df_exibir["remoto"] = pd.to_numeric(df_exibir["remoto"], errors='coerce').map(rem_map).fillna(df_exibir["remoto"])
 
 # --- Renomear colunas
 col_rename = {
@@ -202,7 +202,7 @@ st.markdown("---")
 st.subheader(t["charts"])
 
 df_graf = df_filtrado.copy()
-df_graf["remoto"] = df_graf["remoto"].astype(int).map(rem_map).fillna(df_graf["remoto"])
+df_graf["remoto"] = pd.to_numeric(df_graf["remoto"], errors='coerce').map(rem_map).fillna(df_graf["remoto"])
 
 col_graf1, col_graf2 = st.columns(2)
 
