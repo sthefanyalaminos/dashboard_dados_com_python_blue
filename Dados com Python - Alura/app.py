@@ -172,6 +172,10 @@ col_rename = {
     "remoto": t["col_remoto"],
     "residencia_iso3": t["col_residencia_iso3"],
     "usd": t["col_usd"],
+    "salario": t["col_salario"],
+    "moeda": t["col_moeda"],
+    "residencia": t["col_residencia"],
+    "empresa": t["col_empresa"],
 }
 df_exibir = df_exibir.rename(columns=col_rename)
 

@@ -42,6 +42,10 @@ translations = {
         "col_remoto": "Tipo de Trabalho",
         "col_residencia_iso3": "País de Residência",
         "col_usd": "Salário Anual (USD)",
+        "col_salario":   "Salário",
+        "col_moeda":     "Moeda",
+        "col_residencia": "País de Residência (código)",
+        "col_empresa":   "Empresa",
     },
 
     "en": {
@@ -86,6 +90,10 @@ translations = {
         "col_remoto": "Work Type",
         "col_residencia_iso3": "Country of Residence",
         "col_usd": "Annual Salary (USD)",
+        "col_salario":   "Salary",
+        "col_moeda":     "Currency",
+        "col_residencia": "Country of Residence (code)",
+        "col_empresa":   "Company",
     }
 }
 
