@@ -18,7 +18,30 @@ translations = {
         "most_common_role": "Cargo mais frequente",
 
         "charts": "Gráficos",
-        "detailed_data": "Dados Detalhados"
+        "chart_top10_title": "Top 10 cargos por salário médio",
+        "chart_top10_x": "Média salarial anual (USD)",
+        "chart_hist_title": "Distribuição de salários anuais",
+        "chart_hist_x": "Faixa salarial (USD)",
+        "chart_pie_title": "Proporção dos tipos de trabalho",
+        "chart_map_title": "Salário médio de Cientistas de Dados por país",
+        "chart_map_color": "Salário médio (USD)",
+        "chart_map_location": "País",
+
+        "detailed_data": "Dados Detalhados",
+
+        "warn_roles": "Nenhum dado para exibir no gráfico de cargos.",
+        "warn_dist": "Nenhum dado para exibir no gráfico de distribuição.",
+        "warn_remote": "Nenhum dado para exibir no gráfico dos tipos de trabalho",
+        "warn_map": "Nenhum dado para exibir no gráfico de países.",
+
+        "col_ano": "Ano",
+        "col_cargo": "Cargo",
+        "col_senioridade": "Senioridade",
+        "col_contrato": "Tipo de Contrato",
+        "col_tamanho_empresa": "Tamanho da Empresa",
+        "col_remoto": "Tipo de Trabalho",
+        "col_residencia_iso3": "País de Residência",
+        "col_usd": "Salário Anual (USD)",
     },
 
     "en": {
@@ -39,6 +62,90 @@ translations = {
         "most_common_role": "Most frequent role",
 
         "charts": "Charts",
+        "chart_top10_title": "Top 10 Roles by Average Salary",
+        "chart_top10_x": "Average Annual Salary (USD)",
+        "chart_hist_title": "Annual Salary Distribution",
+        "chart_hist_x": "Salary Range (USD)",
+        "chart_pie_title": "Work Type",
+        "chart_map_title": "Average Data Scientist Salary by Country",
+        "chart_map_color": "Average Salary (USD)",
+        "chart_map_location": "Country",
+
         "detailed_data": "Detailed Data"
+
+        "warn_roles": "No data to display in the roles chart.",
+        "warn_dist": "No data to display in the distribution chart.",
+        "warn_remote": "No data to display in the work type chart",
+        "warn_map": "No data to display in the countries chart",
+
+        "col_ano": "Year",
+        "col_cargo": "Role",
+        "col_senioridade": "Seniority",
+        "col_contrato": "Contract Type",
+        "col_tamanho_empresa": "Company size",
+        "col_remoto": "Work Type",
+        "col_residencia_iso3": "Country of Residence",
+        "col_usd": "Annual Salary (USD)",
     }
+}
+
+seniority_map = {
+    "pt": {
+        "EN": "Júnior",
+        "MI": "Pleno",
+        "SE": "Sênior",
+        "EX": "Especialista/Diretor",
+    },
+    "en": {
+        "EN": "Entry-level",
+        "MI": "Mid-level",
+        "SE": "Senior",
+        "EX": "Executive/Director",
+    }
+}
+ 
+contract_map = {
+    "pt": {
+        "FT": "Tempo Integral",
+        "PT": "Meio Período",
+        "CT": "Contrato/Freelance",
+        "FL": "Freelance",
+    },
+    "en": {
+        "FT": "Full-time",
+        "PT": "Part-time",
+        "CT": "Contract",
+        "FL": "Freelance",
+    }
+}
+ 
+company_size_map = {
+    "pt": {
+        "S": "Pequena",
+        "M": "Média",
+        "L": "Grande",
+    },
+    "en": {
+        "S": "Small",
+        "M": "Medium",
+        "L": "Large",
+    }
+}
+ 
+remote_map = {
+    "pt": {
+        0:   "Presencial",
+        50:  "Híbrido",
+        100: "Remoto",
+    },
+    "en": {
+        0:   "On-site",
+        50:  "Hybrid",
+        100: "Remote",
+    }
+}
+ 
+language_options = {
+    "Português": "pt",
+    "English":   "en",
 }
